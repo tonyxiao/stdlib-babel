@@ -1,0 +1,4 @@
+{
+  "plugins": ["transform-decorators-legacy", "babel-plugin-add-module-exports"],
+  "presets": ["babel-preset-node6-es6", "flow", "stage-0"]
+}
